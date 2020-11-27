@@ -94,6 +94,7 @@ header a:hover{
   background:url('images/showcase_cat_centered.jpg');
   background-repeat:no-repeat;
   background-size: cover;
+  background-position: center;
   background-attachment: scroll;
   background-blend-mode:multiply;
   text-align:center;
